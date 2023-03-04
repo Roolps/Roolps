@@ -19,7 +19,6 @@
 
 <h3>⌘ Projects I'm working on</h3>
 <div>
-  CHEESECAKE • GAMESCENTS • CLUBNODE
   </div>
 
 <h3>⌘ Languages I've worked with</h3>
