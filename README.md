@@ -2,17 +2,17 @@
   <img src="https://i.imgur.com/XXBWjDX.png" alt="cityscape">
   <h1 style="text-align: center;">HI! I'M YARA</h1>
 <div id="badges">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/yara-mcrobert-7b569722a/">
   <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://twitter.com/Rooolps">
   <img src="https://img.shields.io/badge/Twitter-pink?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter Badge"/>  
   </a>
-  <a href="#">
-  <img src="https://img.shields.io/badge/Discord-pink?style=for-the-badge&logo=discord&logoColor=black" alt="Twitter Badge"/>  
+  <a href="https://discord.gg/gXwxk2BYDC">
+  <img src="https://img.shields.io/badge/Discord-pink?style=for-the-badge&logo=discord&logoColor=black" alt="Discord Badge"/>  
   </a>
-  <a href="#">
-  <img src="https://img.shields.io/badge/Spotify-pink?style=for-the-badge&logo=spotify&logoColor=black" alt="Twitter Badge"/>  
+  <a href="https://open.spotify.com/user/216yjmmpuux3amgaplh66sd2i?si=16b1093b8d4740e5">
+  <img src="https://img.shields.io/badge/Spotify-pink?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge"/>  
   </a>
 </div>
 </div>
