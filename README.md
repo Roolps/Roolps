@@ -17,10 +17,6 @@
 </div>
 </div>
 
-<h3>⌘ Projects I'm working on</h3>
-<div>
-  </div>
-
 <h3>⌘ Languages I've worked with</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
