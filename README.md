@@ -31,15 +31,18 @@
 </p>
 <br />
 
-<!-- About Section -->
  # About me
- 
 <p>
 🐳 &emsp; Golang backend developer<br/>
 🦕 &emsp; Vanilla frontend developer<br/>
 📧 &emsp; Email me : yara@clubnode.com<br/>
 </p>
 <br/>
+
+
+## Working on
+Clubnode, GoShop and GolusVM
+
 
 ## Languages
 
