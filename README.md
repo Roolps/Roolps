@@ -48,7 +48,7 @@ Clubnode, GoShop and GolusVM
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,php,html,css,js,flutter,vscode,svelte,java,python" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,php,html,css,js,flutter,vscode,svelte,java,python,figma" />
   </a>
 </p>
 
