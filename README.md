@@ -40,8 +40,7 @@
 <br/>
 
 
-## Working on
-Clubnode, GoShop and GolusVM
+## Working on Clubnode Backend
 
 
 ## My Skills
