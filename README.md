@@ -17,16 +17,16 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/yara-mcrobert-7b569722a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-EB7C3F?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-388bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
  <a href="https://twitter.com/rooolps" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-EB7C3F?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-388bff?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
  </a>
  <a href="https://open.spotify.com/user/216yjmmpuux3amgaplh66sd2i?si=bf1f7df5bad94735" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-EB7C3F?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
+  <img src="https://img.shields.io/badge/Spotify-388bff?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
  </a>
  <a href="https://www.facebook.com/Rooolps/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-EB7C3F?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-388bff?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a> 
 </p>
 <br />
